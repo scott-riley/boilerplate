@@ -11,4 +11,4 @@ Uses Symbolset, I haven't included the font files in the repo, because I'm not a
 None yet, some soon.
 
 ## Sass
-Run `sass --watch assets/sass/screen.scss:assets/css/screen.css`
+Run `sass --watch assets/sass/screen.scss:assets/css/screen.css` or do some CodeKit shit or whatever IDK.
